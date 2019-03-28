@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInTypes", "BuiltInType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonOperatorInCSharp", "CommonOperatorInCSharp\CommonOperatorInCSharp.csproj", "{D1E8E19F-3682-438C-96B9-139952CA70AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{29C7FDFD-1AB0-497D-90BE-3079CDC673BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D1E8E19F-3682-438C-96B9-139952CA70AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E8E19F-3682-438C-96B9-139952CA70AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E8E19F-3682-438C-96B9-139952CA70AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C7FDFD-1AB0-497D-90BE-3079CDC673BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C7FDFD-1AB0-497D-90BE-3079CDC673BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C7FDFD-1AB0-497D-90BE-3079CDC673BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C7FDFD-1AB0-497D-90BE-3079CDC673BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
