@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11SwitchStatmentContinued",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12WhileLoopCSharp", "12WhileLoopCSharp\12WhileLoopCSharp.csproj", "{F2EE8B5A-2F84-4D0E-86A3-0FF73DFC837D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13DoWhileLoop", "13DoWhileLoop\13DoWhileLoop.csproj", "{79A62786-8889-4FBA-9DE3-70037127A202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F2EE8B5A-2F84-4D0E-86A3-0FF73DFC837D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2EE8B5A-2F84-4D0E-86A3-0FF73DFC837D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2EE8B5A-2F84-4D0E-86A3-0FF73DFC837D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A62786-8889-4FBA-9DE3-70037127A202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A62786-8889-4FBA-9DE3-70037127A202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A62786-8889-4FBA-9DE3-70037127A202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A62786-8889-4FBA-9DE3-70037127A202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
