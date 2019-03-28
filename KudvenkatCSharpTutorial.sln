@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToCSharp", "IntroToCSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingNWritingToConsole", "ReadingNWritingToConsole\ReadingNWritingToConsole.csproj", "{4D1C1438-96DD-47F4-885D-0BF3DB0843F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuiltInTypes", "BuiltInTypes\BuiltInTypes.csproj", "{140E34E5-9FDE-439E-A7BA-9FB6624B9EAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D1C1438-96DD-47F4-885D-0BF3DB0843F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D1C1438-96DD-47F4-885D-0BF3DB0843F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D1C1438-96DD-47F4-885D-0BF3DB0843F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140E34E5-9FDE-439E-A7BA-9FB6624B9EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140E34E5-9FDE-439E-A7BA-9FB6624B9EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140E34E5-9FDE-439E-A7BA-9FB6624B9EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140E34E5-9FDE-439E-A7BA-9FB6624B9EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
