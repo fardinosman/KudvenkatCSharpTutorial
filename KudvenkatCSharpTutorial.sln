@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHidingInCSharp", "Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismInCSharp", "PolymorphismInCSharp\PolymorphismInCSharp.csproj", "{86EA3C38-EB97-4BDD-8054-09C5DC91385D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverridingVsMethodHiding", "MethodOverridingVsMethodHiding\MethodOverridingVsMethodHiding.csproj", "{6FD50B89-F889-41EC-A9C5-04FFEA1839B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{86EA3C38-EB97-4BDD-8054-09C5DC91385D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86EA3C38-EB97-4BDD-8054-09C5DC91385D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86EA3C38-EB97-4BDD-8054-09C5DC91385D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD50B89-F889-41EC-A9C5-04FFEA1839B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD50B89-F889-41EC-A9C5-04FFEA1839B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD50B89-F889-41EC-A9C5-04FFEA1839B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD50B89-F889-41EC-A9C5-04FFEA1839B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
