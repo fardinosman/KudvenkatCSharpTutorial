@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8CommentsinCSharp", "8Comme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9IFStatementInSharp", "IFStatementInSharp\9IFStatementInSharp.csproj", "{D61A2CE3-7F75-43F0-A7EC-DFD3F6B2124F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10SwitchStatementInCSharp", "10SwitchStatementInCSharp\10SwitchStatementInCSharp.csproj", "{7D45BBE4-3BDA-4C1A-9346-1D15D65D66FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D61A2CE3-7F75-43F0-A7EC-DFD3F6B2124F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61A2CE3-7F75-43F0-A7EC-DFD3F6B2124F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61A2CE3-7F75-43F0-A7EC-DFD3F6B2124F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D45BBE4-3BDA-4C1A-9346-1D15D65D66FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D45BBE4-3BDA-4C1A-9346-1D15D65D66FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D45BBE4-3BDA-4C1A-9346-1D15D65D66FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D45BBE4-3BDA-4C1A-9346-1D15D65D66FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
