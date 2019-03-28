@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatatypeConverionInCSharp",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysInCSharp", "ArraysInCSharp\ArraysInCSharp.csproj", "{5515A087-5D63-403C-A5F0-ED64EDA05792}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8CommentsinCSharp", "8CommentsinCSharp\8CommentsinCSharp.csproj", "{FD9EFE62-74B9-4CA4-9965-84AC8F4A3480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5515A087-5D63-403C-A5F0-ED64EDA05792}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5515A087-5D63-403C-A5F0-ED64EDA05792}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5515A087-5D63-403C-A5F0-ED64EDA05792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9EFE62-74B9-4CA4-9965-84AC8F4A3480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9EFE62-74B9-4CA4-9965-84AC8F4A3480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9EFE62-74B9-4CA4-9965-84AC8F4A3480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9EFE62-74B9-4CA4-9965-84AC8F4A3480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
