@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nAmspacesinCSharp", "nAmspa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18CLassesInCSharp", "18CLassesInCSharp\18CLassesInCSharp.csproj", "{585BB6A8-586A-471E-B28A-2FDF02BE3E59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatiAndInstanceClassMembers", "StatiAndInstanceClassMembers\StatiAndInstanceClassMembers.csproj", "{3BC749D3-2347-4C67-A98C-7A261385D53A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{585BB6A8-586A-471E-B28A-2FDF02BE3E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{585BB6A8-586A-471E-B28A-2FDF02BE3E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{585BB6A8-586A-471E-B28A-2FDF02BE3E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC749D3-2347-4C67-A98C-7A261385D53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC749D3-2347-4C67-A98C-7A261385D53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC749D3-2347-4C67-A98C-7A261385D53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC749D3-2347-4C67-A98C-7A261385D53A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
