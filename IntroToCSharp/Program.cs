@@ -8,9 +8,20 @@ namespace IntroToCSharp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            // l
+            //Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome to C# Tutorial");
+            Main1();
+
+
+            Console.ReadLine();
         }
+        static void Main1()
+        {
+            Console.WriteLine("Welcome to C# Tutorial");
+        }
+
+        
     }
 }
