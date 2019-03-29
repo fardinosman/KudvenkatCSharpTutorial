@@ -19,7 +19,7 @@ namespace MethodOverridingVsMethodHiding
         {
             Console.WriteLine("I am a Derived Class Print Method");
         }
-        public new void Print() // method overriding
+        public new void Print2() // method overriding
         {
             Console.WriteLine("I am a Derived Class Print Method");
         }
