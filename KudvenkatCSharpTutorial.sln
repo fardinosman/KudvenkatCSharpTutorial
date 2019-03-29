@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassesVsInterfaces
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34ProblemsOfMultipleclassInheritance", "34ProblemsOfMultipleclassInheritance\34ProblemsOfMultipleclassInheritance.csproj", "{3ED0D1E6-C70F-4D4D-A54F-CD0017317B5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_Multiple_Class_Inheritance_Using_Interfaces", "35_Multiple_Class_Inheritance_Using_Interfaces\35_Multiple_Class_Inheritance_Using_Interfaces.csproj", "{170A2476-E9E5-4A4D-93A2-5281D15B3827}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{3ED0D1E6-C70F-4D4D-A54F-CD0017317B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ED0D1E6-C70F-4D4D-A54F-CD0017317B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ED0D1E6-C70F-4D4D-A54F-CD0017317B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170A2476-E9E5-4A4D-93A2-5281D15B3827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170A2476-E9E5-4A4D-93A2-5281D15B3827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170A2476-E9E5-4A4D-93A2-5281D15B3827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170A2476-E9E5-4A4D-93A2-5281D15B3827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
