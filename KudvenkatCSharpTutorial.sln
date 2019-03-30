@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_Delegates", "36_Delegate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_Delegates_Usage_In_C_Sharp", "37_Delegates_Usage_In_C_Sharp\37_Delegates_Usage_In_C_Sharp.csproj", "{39C8639B-9498-4EED-AA06-654664522063}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_MultiCast_Delegate", "39_MultiCast_Delegate\39_MultiCast_Delegate.csproj", "{9B69CB0D-BBCA-4C38-9CB8-28AFDF2872DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{39C8639B-9498-4EED-AA06-654664522063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39C8639B-9498-4EED-AA06-654664522063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39C8639B-9498-4EED-AA06-654664522063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B69CB0D-BBCA-4C38-9CB8-28AFDF2872DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B69CB0D-BBCA-4C38-9CB8-28AFDF2872DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B69CB0D-BBCA-4C38-9CB8-28AFDF2872DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B69CB0D-BBCA-4C38-9CB8-28AFDF2872DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
