@@ -19,7 +19,7 @@ namespace _39_MultiCast_Delegate
             SampleDelegate del1, del2, del4;
             del1 = new SampleDelegate(SampleMethod1);
             del2 = new SampleDelegate(SampleMethod2);
-          //  del3 = new SampleDelegate(SampleMethod3);
+          //  del3 = new SampleDelegate(SampleMethod3);4
 
             del4 = del1 + del2  -del2; //delegate del4 point all of the method and its called multicast delegat
             // we can remove by using -del2
