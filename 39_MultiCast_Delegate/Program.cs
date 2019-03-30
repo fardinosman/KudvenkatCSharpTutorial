@@ -25,7 +25,7 @@ namespace _39_MultiCast_Delegate
             // we can remove by using -del2
             // we use + to add 
             //del4();
-            //other way of using or making multicast delegate
+            //other way of using or making multicast delegatep
             SampleDelegate del = new SampleDelegate(SampleMethod1);
             del += SampleMethod2;
           //  del += SampleMethod3;
