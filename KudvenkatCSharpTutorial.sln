@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46_Enums_Example", "46_Enum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_Enums", "47_Enums\47_Enums.csproj", "{C918E586-C77E-4F6E-88D1-552F2B0762A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48_Difference_between_Types _and_Type_Members", "48_Difference_between_Types _and_Type_Members\48_Difference_between_Types _and_Type_Members.csproj", "{00A91EC6-5D7F-460E-ADDD-BE588A767D22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{C918E586-C77E-4F6E-88D1-552F2B0762A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C918E586-C77E-4F6E-88D1-552F2B0762A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C918E586-C77E-4F6E-88D1-552F2B0762A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A91EC6-5D7F-460E-ADDD-BE588A767D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A91EC6-5D7F-460E-ADDD-BE588A767D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A91EC6-5D7F-460E-ADDD-BE588A767D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A91EC6-5D7F-460E-ADDD-BE588A767D22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
