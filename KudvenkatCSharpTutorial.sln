@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Late_Binding_Using_Refle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_Generics", "56_Generics\56_Generics.csproj", "{CCC0723F-E14E-4CBE-97A3-F87A57CE0AD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57_Why_Should_you_override_ToString_method", "57_Why_Should_you_override_ToString_method\57_Why_Should_you_override_ToString_method.csproj", "{EA890666-5D97-4A0E-83E1-C3D326C3D15A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -345,6 +347,10 @@ Global
 		{CCC0723F-E14E-4CBE-97A3-F87A57CE0AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCC0723F-E14E-4CBE-97A3-F87A57CE0AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCC0723F-E14E-4CBE-97A3-F87A57CE0AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA890666-5D97-4A0E-83E1-C3D326C3D15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA890666-5D97-4A0E-83E1-C3D326C3D15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA890666-5D97-4A0E-83E1-C3D326C3D15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA890666-5D97-4A0E-83E1-C3D326C3D15A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
