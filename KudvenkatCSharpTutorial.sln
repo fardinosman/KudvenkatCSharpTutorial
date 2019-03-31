@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57_Why_Should_you_override_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58_Why_Should_Override_Equals", "58_Why_Should_Override_Equals\58_Why_Should_Override_Equals.csproj", "{3E47E3D7-B842-4E0B-AA20-8FFC6E9D2BB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59_Difference_Between_Convert.ToString()_And_ToString()", "59_Difference_Between_Convert.ToString()_And_ToString()\59_Difference_Between_Convert.ToString()_And_ToString().csproj", "{2ACD6207-CDBE-483D-BFAD-86D745F88904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{3E47E3D7-B842-4E0B-AA20-8FFC6E9D2BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E47E3D7-B842-4E0B-AA20-8FFC6E9D2BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E47E3D7-B842-4E0B-AA20-8FFC6E9D2BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACD6207-CDBE-483D-BFAD-86D745F88904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACD6207-CDBE-483D-BFAD-86D745F88904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACD6207-CDBE-483D-BFAD-86D745F88904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACD6207-CDBE-483D-BFAD-86D745F88904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
