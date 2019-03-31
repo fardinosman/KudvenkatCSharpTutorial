@@ -30,7 +30,6 @@ namespace _48_Difference_between_Types__and_Type_Members
             set { this._lastNamme = value; }
         }
         #endregion
-
         #region Method
         public string GetFullName()
         {

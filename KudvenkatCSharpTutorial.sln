@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_Enums", "47_Enums\47_Enu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48_Difference_between_Types _and_Type_Members", "48_Difference_between_Types _and_Type_Members\48_Difference_between_Types _and_Type_Members.csproj", "{00A91EC6-5D7F-460E-ADDD-BE588A767D22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49_Access_Modifiers", "49_Access_Modifiers\49_Access_Modifiers.csproj", "{FB10D958-1B30-49B7-BE0D-6088FE59297F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{00A91EC6-5D7F-460E-ADDD-BE588A767D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A91EC6-5D7F-460E-ADDD-BE588A767D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A91EC6-5D7F-460E-ADDD-BE588A767D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB10D958-1B30-49B7-BE0D-6088FE59297F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB10D958-1B30-49B7-BE0D-6088FE59297F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB10D958-1B30-49B7-BE0D-6088FE59297F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB10D958-1B30-49B7-BE0D-6088FE59297F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
