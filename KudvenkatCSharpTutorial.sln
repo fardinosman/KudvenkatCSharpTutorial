@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53_Reflections", "53_Reflec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Reflection_Example_Windows_Form", "54_Reflection_Example_Windows_Form\54_Reflection_Example_Windows_Form.csproj", "{ED81A4B7-565C-41F6-9B4D-375B46BDA33D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Late_Binding_Using_Reflection_Console", "55_Late_Binding_Using_Reflection_Console\55_Late_Binding_Using_Reflection_Console.csproj", "{6BDE6A7C-2AD4-4898-834D-8B50FBA7DD9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{ED81A4B7-565C-41F6-9B4D-375B46BDA33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED81A4B7-565C-41F6-9B4D-375B46BDA33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED81A4B7-565C-41F6-9B4D-375B46BDA33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDE6A7C-2AD4-4898-834D-8B50FBA7DD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDE6A7C-2AD4-4898-834D-8B50FBA7DD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDE6A7C-2AD4-4898-834D-8B50FBA7DD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDE6A7C-2AD4-4898-834D-8B50FBA7DD9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
